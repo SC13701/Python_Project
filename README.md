@@ -64,16 +64,16 @@ Using these dataframes, the following trends were plotted and studied.
 ### Exploratory Analysis
 
 Before diving into analysing the scenario of data analyst jobs in India, a basic representation of the various jobs in the field of data study is provided in the graphs below:
-![Popular Jobs and Work Format](Project_Images\Popular_Jobs_and_Work_Format.png)
+![Popular Jobs and Work Format](Project_Images/Popular_Jobs_and_Work_Format.png)
 Based on the above given graph, Data Analyst jobs are the most popular, with a majority of the workforce being full-time employees, with very few contractors and interns.
 
-![Top Job Locatioins](Project_Images\Top_Job_Destinations.png)
+![Top Job Locatioins](Project_Images/Top_Job_Destinations.png)
 The above graph tries to filter the distribution of the majority of the Data Analyst jobs in India; hence, the further studies conducted on this field specifically.
 
-![Job Requirements and Benefits](Project_Images\Job_Requirements_and_Benefits.png)
+![Job Requirements and Benefits](Project_Images/Job_Requirements_and_Benefits.png)
 Further study into the graph displays that 17.2% of the jobs are remote, with almost 36% not requiring a degree to be an employee. However, a concerning display of no health insurance based on the provided dataset.
 
-![Top Companies](Project_Images\Top_Companies_Hiring_in_India.png)
+![Top Companies](Project_Images/Top_Companies_Hiring_in_India.png)
 Displaying the proportion of job offers from the top hiring companies.
 
 Analysis for the above study can be viewed here: [1_Exploratory_Data_Analysis](1_Exploratory_Data_Analysis.ipynb)
@@ -81,7 +81,7 @@ Analysis for the above study can be viewed here: [1_Exploratory_Data_Analysis](1
 ### Skill Analysis
 Although Data Analysis is the top-most sought-after job in India.
 
-![Top skills for Data-based jobs](Project_Images\Top_Skills_Data_Analyst_Scientist_Engineer.png)
+![Top skills for Data-based jobs](Project_Images/Top_Skills_Data_Analyst_Scientist_Engineer.png)
 The study on the most important skills for careers in Data Analysis, Engineering, and Science displays that SQL and Python are among the most common skills requested from all three job portfolios.
 
 Analysis for the above study can be viewed here: [2_Skill_Count](2_Skill_Count.ipynb)
@@ -89,18 +89,18 @@ Analysis for the above study can be viewed here: [2_Skill_Count](2_Skill_Count.i
 ### Trend of Skill Requirement
 A study on the relevance of the skill over the year is conducted to understand the requirements of the companies, helping better streamline the approach for future endeavours.
 
-![Skill trend over the year](Project_Images\Skill_Trend_year.png)
+![Skill trend over the year](Project_Images/Skill_Trend_year.png)
 Based on the study conducted, it can be understood that SQL is a core skill that is sought by most companies, while Python and Excel are just as important.
 
 Analysis for the above study can be viewed here: [3_Skill_Trends](3_Skill_Trends.ipynb)
 
 ### Salary Analysis
-The main objective behind any job is to get good pay. This study dives into the salary (in USD) of the various job profiles in India and how a skill matters in regards the pay.
+The main objective behind any job is to get good pay. This study dives into the salary (in USD) of the various job profiles in India and how a skill matters in regard to the pay.
 
-![Average Salary](Project_Images\Average_Salary_Data_Jobs.png)
+![Average Salary](Project_Images/Average_Salary_Data_Jobs.png)
 The above graph displays the distribution of salary based on the different data-based jobs, with the highest average salary obtained by senior data engineers.
 
-![Average salary based on skill](Project_Images\Salary_Skills.png)
+![Average salary based on skill](Project_Images/Salary_Skills.png)
 The above study also suggests that the skills an employee has may affect their overall salary, and that the most popular skills may not be the highest-paying skills.
 
 Analysis for the above study can be viewed here: [4_Salary_Analysis](4_Salary_Analysis.ipynb)
@@ -108,7 +108,7 @@ Analysis for the above study can be viewed here: [4_Salary_Analysis](4_Salary_An
 ### Optimal Skill Analysis
 This study determines the most optimal approach to learning skills, considering the job market provided in the study.
 
-![Skill comparison based on Job availibility and Skill requirement](Project_Images\Skill_Requirement_Salary_vs_Job_Ratio.png)
+![Skill comparison based on Job availibility and Skill requirement](Project_Images/Skill_Requirement_Salary_vs_Job_Ratio.png)
 
 Analysis for the above study can be viewed here: [5_Optimal_Skills](5_Optimal_Skills.ipynb)
 
